@@ -16,7 +16,11 @@
 		<h2>you may wonder: "What do i do?" i tell you</h2>
 			<p>
 				- sick-music
+			</p>
+			<p>
 				- beats
+			</p>
+			<p>
 				- turnips (yes, i work farm in commune.)
 			</p>
 		<h2>why do i do it</h2>
