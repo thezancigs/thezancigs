@@ -1,14 +1,19 @@
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+</canvas>
+
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
-## Welcome to mypage!
+## greeting comrade. i welcome you to mypage. please have a stay.
 
 # Who am i
+i am Dimitrij Paleski-Zancig
+
 ## What do i do
-### why do i do
-
-- sickmusic
+- sick-music
 - beats
+- turnips (yes, i am farmer in ussr commune.)
 
-<iframe src="https://www.youtube.com/embed/Uox2yl3v2H0" title="Lets do the twist"</iframe>
+### why do i do it
+i have to help commune, if i not, i excecute.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
