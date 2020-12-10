@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>index.md</title>
+    <title>docs</title>
   </head>
   <body style="background-color:#CD0000;">
 
