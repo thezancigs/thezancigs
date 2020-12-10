@@ -1,8 +1,7 @@
 <html>
-	<body style="background-color:red;">
-	<p 
-	   style=background-color:Tomato;">
-	<p>
+	<body>
+	<p style="background-color:Tomato;">
+		<p>
 			<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 		</p>
 		<p>
