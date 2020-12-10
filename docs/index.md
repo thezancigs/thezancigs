@@ -24,7 +24,7 @@
 			<p>
 				to help commune. if not reap award i have a disappear!
 			</p>
-		<h2>Support or Contact</h1>
+		<h2>Support or Contact</h2>
 			<a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
 			<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
 	</body>
