@@ -12,4 +12,4 @@
 
 ### Support or Contact
 <a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
-<a href="instagram.com/thezancigs">https://www.instagram.com/thezancigs/</a> 
+<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a> 
