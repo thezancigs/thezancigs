@@ -1,6 +1,5 @@
-<body style="background-color:BostonUniversityRed;">
+body {background-color: #1c87c9;<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">}
 
-<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 ## greeting comrade. i welcome you to mypage. please have a stay.
 
 # Who am i
