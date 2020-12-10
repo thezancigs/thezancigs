@@ -1,4 +1,4 @@
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #045637;">
 </canvas>
 
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
@@ -13,7 +13,7 @@ i am Dimitrij Paleski-Zancig
 - turnips (yes, i am farmer in ussr commune.)
 
 ### why do i do it
-i have to help commune, if i not, i excecute.
+to help commune. if i not success i have a disappear.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
