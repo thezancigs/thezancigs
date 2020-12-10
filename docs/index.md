@@ -1,5 +1,5 @@
 <html>
-	<body style="background-color:Tomato;">
+	<body style="background-color:BostonRed;">
 				<p>
 					<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 				</p>
