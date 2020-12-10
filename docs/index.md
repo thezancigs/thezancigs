@@ -13,7 +13,7 @@
 
 
 
-<iframe src="https://www.youtube.com/watch?v=nh2Jyswh_Yg" title="USSR">
+<iframe src="https://www.youtube.com/embed/nh2Jyswh_Yg?autoplay=1" width="560" height="315" frameborder="0"><a href="https://youtube-iframe.com"></a></iframe>
 
 ### Support or Contact
 <a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
