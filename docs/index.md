@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>docs</title>
-  </head>
-  <body style="background-color:#CD0000;">
+<body style="background-color:#CD0000;">
 
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 
