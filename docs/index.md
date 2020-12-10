@@ -1,3 +1,4 @@
+<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 ## Welcome to mypage!
 
 # Who am i
@@ -7,8 +8,6 @@
 - sickmusic
 - beats
 
-<img src="Logopit_1589006681164.png" style="width:100%">
-
 ### Support or Contact
-thezancigs@gmail.com
-instagram.com/thezancigs
+<a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
+<a href="instagram.com/thezancigs">instagram.com/thezancigs</a> 
