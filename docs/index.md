@@ -12,7 +12,7 @@ i am Dimitrij Paleski-Zancig
 ## What do i do
 - sick-music
 - beats
-- turnips (yes, i am farmer in ussr commune.)
+- turnips (yes, i am farm in commune.)
 
 ### why do i do it
 to help commune. if i not success i have a disappear.
