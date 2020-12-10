@@ -7,7 +7,7 @@
 - sickmusic
 - beats
 
-<img src="img_la.jpg" alt="LA" style="width:100%">
+<img src="Logopit_1589006681164.png" alt="LA" style="width:100%">
 
 ### Support or Contact
 thezancigs@gmail.com
