@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>thezancigs</title>
+  </head>
+  <body style="background-color:#CD0000;">
+  </body>
+</html>
+
+
 <style>
   body {background-color: #CD0000;}
 </style>
