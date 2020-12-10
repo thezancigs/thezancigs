@@ -1,14 +1,16 @@
 <html>
-  <head>
-    <title>The Zancigs - Hecka sick rock'n'roll band</title>
-    <style>
-      body {
-        background-color: #CD0000;
-      }
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="Hecka sick rock'n'roll band haha do you like it">
+		<title>The Zancigs - Hecka sick rock'n'roll band</title>
+	</head>
+	<head>
+		<style>
+      		body {background-color: #CD0000;}
     </style>
   </head>
   <body></body>
-
+</html>
 		
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 
@@ -32,4 +34,4 @@ to help commune. if i not success i have a disappear.
 ### Support or Contact
 <a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
 <a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
-</html>
+
