@@ -1,4 +1,4 @@
-<body style="background-color:#CD0000;">
+<body style="background-color:BostonUniversityRed;">
 
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 ## greeting comrade. i welcome you to mypage. please have a stay.
