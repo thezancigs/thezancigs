@@ -1,5 +1,4 @@
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #045637;">
-</canvas>
+<body style="background-color:#CD0000;">
 
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 ## greeting comrade. i welcome you to mypage. please have a stay.
