@@ -1,6 +1,5 @@
 <html>
-	<head>
-		<body style="background-color:Tomato";>
+	<body style="background-color:Tomato";>
 				<p>
 					<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 				</p>
@@ -40,5 +39,4 @@
 					<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
 				</p>
 		</body>
-	</head>
 </html>
