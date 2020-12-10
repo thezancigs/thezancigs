@@ -12,12 +12,8 @@
 
 
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=nh2Jyswh_Yg" type="video/mp4">
-  <source src="https://www.youtube.com/watch?v=nh2Jyswh_Yg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
 
+<iframe src="https://www.youtube.com/watch?v=nh2Jyswh_Yg" title="USSR">
 
 ### Support or Contact
 <a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
