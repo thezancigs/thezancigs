@@ -1,6 +1,12 @@
+<!DOCTYPE html>
 <html>
-	<body>
-	<p style="background-color:Tomato;">
+	<head>
+		<style>
+			body {
+					background-color: Tomato;
+				}
+		</style>
+	</head>
 		<p>
 			<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 		</p>
