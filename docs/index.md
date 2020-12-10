@@ -1,11 +1,13 @@
+<html>
 <head>
 	<meta charset="UTF-8">
 	<meta name="description" content="160 characters.  Hecka sick rock'n'roll band haha do you like it">
 	<meta name="author" content="Mr Z"
 	<meta name="keywords" content="Rock, Surf, Music, Sweden, Punk"
 	<title>The Zancigs - Hecka sick rock'n'roll band</title>
-	<body style="background-color:lightblue;">
 </head>
+<body style="background-color:lightblue;">
+</html>
 
 		
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
