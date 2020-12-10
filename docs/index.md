@@ -8,7 +8,7 @@
 - sickmusic
 - beats
 
-<iframe src="https://www.youtube.com/embed/Uox2yl3v2H0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Let's do the twist" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Uox2yl3v2H0" title="Let's do the twist">
 
 ### Support or Contact
 <a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
