@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>thezancigs</title>
+    <title>index.md</title>
   </head>
   <body style="background-color:#CD0000;">
 
