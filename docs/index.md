@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Title of the document </title>
+    <title>The Zancigs - Hecka sick rock'n'roll band</title>
     <style>
       body {
         background-color: #CD0000;
