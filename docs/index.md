@@ -1,4 +1,6 @@
-body {background-color: #CD0000;}
+<style>
+  body {background-color: #CD0000;}
+</style>
 
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 
