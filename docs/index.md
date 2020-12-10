@@ -1,4 +1,4 @@
-body {background-color: #1c87c9;}
+body {background-color: #CD0000}
 
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 
