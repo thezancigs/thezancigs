@@ -1,4 +1,3 @@
-
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -25,8 +24,14 @@
 				to help commune. if not reap award i have a disappear!
 			</p>
 		<h2>Support or Contact</h2>
-			<a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
-			<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
+			<p>
+				<a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
+			</p>
+			<p>
+				<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
+			</p>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 				allowfullscreen></iframe>
+			</p>
 	</body>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </html>
