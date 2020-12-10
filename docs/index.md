@@ -1,6 +1,9 @@
 <html>
 	<body style="background-color:#CD0000;">
 		<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 				allowfullscreen></iframe>
+		</p>
+		<p>
 			<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 		</p>
 		<h1>
@@ -34,9 +37,6 @@
 			</p>
 			<p>
 				<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
-			</p>
-			<p>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 				allowfullscreen></iframe>
 			</p>
 	</body>
 </html>
