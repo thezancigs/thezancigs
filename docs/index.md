@@ -6,7 +6,7 @@
 		<meta name="keywords" content="Rock, Surf, Music, Sweden, Punk"
 		<title>The Zancigs - Hecka sick rock'n'roll band</title>
 	</head>
-<body style="background-color:lightblue;">
+<body style="background-color:OrangeRed;">
 		
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 
