@@ -7,8 +7,8 @@
       }
     </style>
   </head>
-  <body>
-</html>
+  <body></body>
+
 		
 <img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 
@@ -32,4 +32,4 @@ to help commune. if i not success i have a disappear.
 ### Support or Contact
 <a href="thezancigs@gmail.com">thezancigs@gmail.com</a>
 <a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
-</body>
+</html>
