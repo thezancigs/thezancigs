@@ -1,12 +1,11 @@
 <html>
 	<head>
-		<style>
-			<body style="background-color:Tomato";>
+		<body style="background-color:Tomato";>
 				<p>
 					<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
 				</p>
 				<p>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 				allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh2Jyswh_Yg" frameborder="0" 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 				allowfullscreen></iframe>
 				</p>
 				<h1>
 					greeting comrade. welcome you to mypage. please have your stay.
@@ -40,7 +39,6 @@
 				<p>
 					<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
 				</p>
-			</body>
-		</style>
+		</body>
 	</head>
 </html>
