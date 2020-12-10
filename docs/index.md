@@ -1,7 +1,9 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<meta name="description" content="Hecka sick rock'n'roll band haha do you like it">
+		<meta name="description" content="160 characters.  Hecka sick rock'n'roll band haha do you like it">
+		<meta name="author" content="Mr Z"
+		<meta name="keywords" content="Rock, Surf, Music, Sweden, Punk"
 		<title>The Zancigs - Hecka sick rock'n'roll band</title>
 	</head>
 	<head>
