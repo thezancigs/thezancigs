@@ -6,6 +6,7 @@
 				}
 		</style>
 	</head>
+	<head>
 		<body>
 			<p>
 				<img src="Logopit_1589006681164.png" alt="logotype" style="width:100%">
@@ -46,4 +47,5 @@
 					<a href="https://www.instagram.com/thezancigs/">https://www.instagram.com/thezancigs/</a>
 				</p>
 	</body>
+	</head>
 </html>
