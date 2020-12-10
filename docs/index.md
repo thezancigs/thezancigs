@@ -14,7 +14,7 @@
 			<p>
 				i am Dimitrij Paleski-Zancig
 			</p>
-		<h2>you may wonder: "What do i do?" I tell you this list</h2>
+		<h2>you may wonder: "What do i do?" i tell you</h2>
 			<p>
 				- sick-music
 				- beats
@@ -22,7 +22,7 @@
 			</p>
 		<h2>why do i do it</h2>
 			<p>
-				to help commune. if i not success i have a disappear.
+				to help commune. if not reap award i have a disappear!
 			</p>
 
 
